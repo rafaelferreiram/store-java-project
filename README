@@ -1,0 +1,5 @@
+# INSTALAÇÃO
+1. Importar projeto no Java.
+2. Ir em Propriedades > Java Build Path > Source
+3. Modificar endereço para WEB-INF/classes/
+4. Adicionar Jars que estão na Web-Content/WEB-INF/lib
